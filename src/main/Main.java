@@ -1,10 +1,10 @@
 package main;
-import java.util.Random;
-import java.util.Scanner;
+
 
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World!");
+
 
         Random random = new Random();
         for (int i = 0; i < 10; i++) {
@@ -14,6 +14,7 @@ public class Main {
         System.out.println("Number: " + number);
 
         System.out.println("TUTAINA TUTURUMA");
+
 
     }
 }
